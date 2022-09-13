@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized - Deep Logic Technology Solutionserewr</title>
-	<atom:link href="https://deeplogictechnologysolution.github.io/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>https://deeplogictechnologysolution.github.io/wordpress</link>
+	<atom:link href="https://deeplogictechnologysolution.github.io/DeepLogic/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://deeplogictechnologysolution.github.io/DeepLogic</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 11 Sep 2022 18:10:29 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,19 +21,19 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://deeplogictechnologysolution.github.io/wordpress/2022/09/11/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
-					<comments>https://deeplogictechnologysolution.github.io/wordpress/2022/09/11/hello-world/#comments</comments>
+		<link>https://deeplogictechnologysolution.github.io/DeepLogic/2022/09/11/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
+					<comments>https://deeplogictechnologysolution.github.io/DeepLogic/2022/09/11/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[dladmin]]></dc:creator>
 		<pubDate>Sun, 11 Sep 2022 18:10:29 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://deeplogictechnologysolution.github.io/wordpress/?p=1</guid>
+		<guid isPermaLink="false">https://deeplogictechnologysolution.github.io/DeepLogic/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="https://deeplogictechnologysolution.github.io/wordpress/2022/09/11/hello-world/">Hello world!</a> first appeared on <a href="https://deeplogictechnologysolution.github.io/wordpress">Deep Logic Technology Solutionserewr</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="https://deeplogictechnologysolution.github.io/wordpress/2022/09/11/hello-world/">Hello world!</a> first appeared on <a href="https://deeplogictechnologysolution.github.io/wordpress">Deep Logic Technology Solutionserewr</a>.</p>]]></content:encoded>
+<p>The post <a href="https://deeplogictechnologysolution.github.io/DeepLogic/2022/09/11/hello-world/">Hello world!</a> first appeared on <a href="https://deeplogictechnologysolution.github.io/DeepLogic">Deep Logic Technology Solutionserewr</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="https://deeplogictechnologysolution.github.io/DeepLogic/2022/09/11/hello-world/">Hello world!</a> first appeared on <a href="https://deeplogictechnologysolution.github.io/DeepLogic">Deep Logic Technology Solutionserewr</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>https://deeplogictechnologysolution.github.io/wordpress/2022/09/11/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://deeplogictechnologysolution.github.io/DeepLogic/2022/09/11/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
